@@ -1,0 +1,8 @@
+{
+  "name": "Chicken Invaders: Cluck of the Dark Side",
+  "description": "Epic galactic chicken shooter inspired by Chicken Invaders 5: Cluck of the Dark Side featuring iconic weapons, chicken waves, drumstick feasts, and boss battles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
