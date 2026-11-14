@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: '/Chicken-Invanders/',
+    base: '/Chicken-Invaders/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
